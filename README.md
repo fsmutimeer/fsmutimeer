@@ -1,5 +1,4 @@
-   # Hi, I’m Feroz
-   ### I’m interested in Coding.
+   # Hi, I’m currently and constanlty working on webapps.
 - 🌱 open to collaborate on open source projects.
 
 <!---
