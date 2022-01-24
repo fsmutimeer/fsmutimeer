@@ -1,4 +1,4 @@
-   # Hi, I’m currently and constanlty working on webapps.
+   # Hi, I’m Feroz.
 - 🌱 open to collaborate on open source projects.
 
 <!---
