@@ -1,5 +1,7 @@
    # Hi, I’m Feroz.
-- 🌱 open to collaborate on open source projects.
+- 🌱 I am a fullstack developer.
+- Currently Working on :point_right: [Feroz-Website](https://fsmutimeer.vercel.app)
+
 
 <!---
 fsmutimeer/fsmutimeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
