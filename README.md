@@ -1,6 +1,6 @@
    # Hi, I’m Feroz.
 - 🌱 I am a technophile.
-- Currently Working doing some java
+- Currently doing some java
 
 
 <!---
