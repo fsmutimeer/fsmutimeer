@@ -1,6 +1,6 @@
    # Hi, I’m Feroz.
 - 🌱 I am a technophile.
-- Currently Working on :point_right: [Feroz-Website](https://fsmutimeer.vercel.app)
+- Currently Working doing some java
 
 
 <!---
