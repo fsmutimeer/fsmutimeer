@@ -6,13 +6,9 @@
 ### <div align="center">HI, I am a Backend Developer</div>  
   
 
-- Java -> Quarkus  
-  
+- Java 
 
-- Nodejs -> Express  
-  
-
-- React -> Nextjs  
+- Nodejs 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
