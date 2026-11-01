@@ -5,6 +5,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://fsmutimeer.github.io/"><img src="https://img.shields.io/badge/Portfolio-fsmutimeer.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/fsmutimeer"><img src="https://img.shields.io/badge/LinkedIn-fsmutimeer-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://x.com/fsmutimeer"><img src="https://img.shields.io/badge/@fsmutimeer-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://migrax.org/"><img src="https://img.shields.io/badge/migrax.org-D32F2F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="migrax.org"></a>
