@@ -1,55 +1,81 @@
-<h1 align="center">Feroz S. Mutimeer</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Feroz S. Mutimeer, Software Engineer and DevOps Engineer" src="assets/banner-dark.svg" width="100%">
+</picture>
 
 <p align="center">
-  <b>Software Engineer · DevOps Engineer</b><br>
-  Building scalable backend systems and cloud-native infrastructure
+  <a href="https://www.linkedin.com/in/fsmutimeer"><img src="https://img.shields.io/badge/LinkedIn-fsmutimeer-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/fsmutimeer"><img src="https://img.shields.io/badge/@fsmutimeer-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://migrax.org/"><img src="https://img.shields.io/badge/migrax.org-D32F2F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="migrax.org"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fsmutimeer"><img src="https://img.shields.io/badge/LinkedIn-fsmutimeer-0A66C2?style=flat-square" alt="LinkedIn"></a>
-  <a href="https://x.com/fsmutimeer"><img src="https://img.shields.io/badge/X-@fsmutimeer-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://migrax.org/"><img src="https://img.shields.io/badge/migrax.org-website-D32F2F?style=flat-square&logo=googlechrome&logoColor=white" alt="migrax.org"></a>
+  🔨 Building <b>Migrax</b> &nbsp;·&nbsp; ✍️ Writing about schema migrations &nbsp;·&nbsp; 🤝 Open to talks and collaborations
 </p>
 
----
+## About me
 
-### About me
+Backend and DevOps engineer at **IT22 B.V.** (Digital Transformation & Cloud), based in Islamabad.
+I design Java microservices and run them on Kubernetes and OpenShift. In my own time I build
+**[Migrax](https://github.com/fsmutimeer/migrax)**, an open-source tool that keeps database schemas in
+step with the code.
 
-- Backend and DevOps engineer at **IT22 B.V.** (Digital Transformation & Cloud), based in Islamabad
-- I design Java microservices and run them on Kubernetes and OpenShift
-- Author and maintainer of **[Migrax](https://github.com/fsmutimeer/migrax)**, an open-source tool that
-  generates SQL migrations from your JPA/Hibernate entities and applies them safely
-
-### Tech stack
+## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=java" width="44" alt="Java" title="Java">
+  <img src="assets/quarkus.svg" width="44" alt="Quarkus" title="Quarkus">
+  <img src="https://skillicons.dev/icons?i=spring" width="44" alt="Spring Boot" title="Spring Boot">
+  <img src="https://skillicons.dev/icons?i=hibernate" width="44" alt="Hibernate" title="Hibernate">
+  <img src="https://skillicons.dev/icons?i=kafka" width="44" alt="Kafka" title="Kafka">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="44" alt="Kubernetes" title="Kubernetes">
+  <img src="https://skillicons.dev/icons?i=openshift" width="44" alt="OpenShift" title="OpenShift">
+  <img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" title="Docker">
+  <img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions" title="GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" title="Linux">
 </p>
 
-### Featured project
+## Featured project
 
-**[Migrax](https://github.com/fsmutimeer/migrax)**: database migrations generated from your JPA entities.
-Works as a CLI, Maven and Gradle plugin, and with Spring Boot, Quarkus, Micronaut, Helidon and
-Jakarta EE. Docs and downloads at **[migrax.org](https://migrax.org/)**.
+<table>
+  <tr>
+    <td width="110" align="center" valign="top">
+      <a href="https://github.com/fsmutimeer/migrax"><img src="assets/migrax-logo.svg" width="88" alt="Migrax logo"></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/fsmutimeer/migrax">Migrax</a></h3>
+      <p>Database migrations generated from your JPA and Hibernate entities, with rollback scripts,
+      lint checks and verification before they reach production. Works as a CLI, a Maven or
+      Gradle plugin, and with Spring Boot, Quarkus, Micronaut, Helidon and Jakarta EE.</p>
+      <p>
+        <a href="https://github.com/fsmutimeer/migrax/releases"><img src="https://img.shields.io/github/v/release/fsmutimeer/migrax?sort=semver&style=flat-square&label=release" alt="Latest release"></a>
+        <a href="https://central.sonatype.com/artifact/org.migrax/migrax"><img src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Forg%2Fmigrax%2Fmigrax%2Fmaven-metadata.xml&style=flat-square&label=maven%20central" alt="Maven Central"></a>
+        <a href="https://github.com/fsmutimeer/migrax/stargazers"><img src="https://img.shields.io/github/stars/fsmutimeer/migrax?style=flat-square" alt="GitHub stars"></a>
+        <a href="https://github.com/fsmutimeer/migrax/blob/main/LICENSE"><img src="https://img.shields.io/github/license/fsmutimeer/migrax?style=flat-square" alt="License"></a>
+      </p>
+      <p>
+        <a href="https://migrax.org/"><b>Docs</b></a> &nbsp;·&nbsp;
+        <a href="https://migrax.org/download/"><b>Download</b></a> &nbsp;·&nbsp;
+        <a href="https://migrax.org/blog/"><b>Blog</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/fsmutimeer/migrax-intellij"><b>IntelliJ plugin</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Latest articles
+## Latest articles
 
-- [Generated SQL migrations for Python, TypeScript and Go projects](https://migrax.org/blog/generated-migrations-for-python-typescript-and-go/)
-- [Migrax vs Flyway: generated vs hand-written migrations](https://migrax.org/blog/migrax-vs-flyway/)
-- [Catching schema drift before it breaks production](https://migrax.org/blog/catching-schema-drift/)
-- [Stop using `ddl-auto=update` in production](https://migrax.org/blog/stop-using-ddl-auto-update-in-production/)
-- [Applying and undoing: `migrate`, `status`, `rollback`](https://migrax.org/blog/applying-and-undoing-migrations/)
-- [Renaming columns and tables without losing data](https://migrax.org/blog/renaming-columns-and-tables-without-losing-data/)
-- [Generate SQL migrations from your JPA entities](https://migrax.org/blog/generate-sql-migrations-from-jpa-entities/)
+<!-- BLOG-POST-LIST:START -->
+| Article | Published |
+| :-- | --: |
+| [Generated SQL migrations for Python, TypeScript and Go projects](https://migrax.org/blog/generated-migrations-for-python-typescript-and-go/) | Oct 31, 2026 |
+| [Migrax vs Flyway: generated vs hand-written migrations](https://migrax.org/blog/migrax-vs-flyway/) | Oct 31, 2026 |
+| [Catching schema drift before it breaks production](https://migrax.org/blog/catching-schema-drift/) | Oct 31, 2026 |
+| [Stop using ddl-auto=update in production](https://migrax.org/blog/stop-using-ddl-auto-update-in-production/) | Oct 31, 2026 |
+| [Applying and undoing: migrate, status, rollback](https://migrax.org/blog/applying-and-undoing-migrations/) | Oct 25, 2026 |
+<!-- BLOG-POST-LIST:END -->
 
-<sub>More on the [Migrax blog](https://migrax.org/blog/).</sub>
+<sub>Updated daily from the <a href="https://migrax.org/blog/">Migrax blog</a>.</sub>

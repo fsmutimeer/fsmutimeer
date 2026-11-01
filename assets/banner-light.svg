@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Feroz S. Mutimeer, Software Engineer and DevOps Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f8fa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1f2328" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#e53935" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#e53935" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="16" fill="none" stroke="#d1d9e0"/>
+
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <rect x="64" y="84" width="40" height="4" rx="2" fill="#d32f2f"/>
+    <text x="64" y="150" font-size="54" font-weight="700" fill="#1f2328">Feroz S. Mutimeer</text>
+    <text x="64" y="198" font-size="26" font-weight="600" fill="#c62828">Software Engineer · DevOps Engineer</text>
+    <text x="64" y="240" font-size="19" fill="#59636e">Building scalable backend systems and cloud-native infrastructure</text>
+  </g>
+  <text x="64" y="284" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#818b98">Java · Quarkus · Kafka · Kubernetes · OpenShift</text>
+
+  <!-- terminal card (stays dark in both themes) -->
+  <g transform="translate(660 70)">
+    <rect width="476" height="200" rx="12" fill="#0d1117" stroke="#d1d9e0"/>
+    <circle cx="22" cy="20" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="20" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="20" r="6" fill="#28c840"/>
+    <line x1="0" y1="40" x2="476" y2="40" stroke="#21262d"/>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13.5">
+      <text x="20" y="70" fill="#7ee787">$ <tspan fill="#f0f6fc">migrax generate</tspan></text>
+      <text x="20" y="98" fill="#c9d1d9">Created <tspan fill="#79c0ff">db/migration/0007_orders.sql</tspan>:</text>
+      <text x="36" y="122" fill="#9198a1">- create table orders</text>
+      <text x="36" y="146" fill="#9198a1">- add column customers.email</text>
+      <text x="20" y="176" fill="#c9d1d9">Review the SQL, then run '<tspan fill="#fbbf24">migrax migrate</tspan>'.</text>
+    </g>
+  </g>
+</svg>
