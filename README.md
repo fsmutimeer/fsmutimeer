@@ -72,11 +72,11 @@ step with the code.
 <!-- BLOG-POST-LIST:START -->
 | Article | Published |
 | :-- | --: |
+| [Spring Boot: migrations at startup, health checks and metrics](https://migrax.org/blog/spring-boot-migrations-at-startup/) | Nov 08, 2026 |
 | [Generate and apply database migrations without leaving IntelliJ IDEA](https://migrax.org/blog/database-migrations-in-intellij-idea/) | Nov 06, 2026 |
 | [Generated SQL migrations for Python, TypeScript and Go projects](https://migrax.org/blog/generated-migrations-for-python-typescript-and-go/) | Oct 31, 2026 |
 | [Migrax vs Flyway: generated vs hand-written migrations](https://migrax.org/blog/migrax-vs-flyway/) | Oct 31, 2026 |
 | [Catching schema drift before it breaks production](https://migrax.org/blog/catching-schema-drift/) | Oct 31, 2026 |
-| [Stop using ddl-auto=update in production](https://migrax.org/blog/stop-using-ddl-auto-update-in-production/) | Oct 31, 2026 |
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Updated daily from the <a href="https://migrax.org/blog/">Migrax blog</a>.</sub>
